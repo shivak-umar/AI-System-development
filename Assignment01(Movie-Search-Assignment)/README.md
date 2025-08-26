@@ -1,4 +1,4 @@
-# 🎬 Movie Semantic Search Engine Roll no 221020456-Toshan kanwar
+# 🎬 Movie Semantic Search Engine Roll no 221020449-Shiva-Kumar-Nagesh
 
 ![Python](https://img.shields.io/badge/python-v3.9+-blue.svg)
 ![Tests](https://img.shields.io/badge/tests-7%2F7%20passing-brightgreen.svg)
@@ -10,7 +10,7 @@
 This repository contains my comprehensive solution for the AI Systems Development semantic search assignment. The system uses state-of-the-art sentence embeddings to find movies based on plot similarity rather than simple keyword matching, enabling intelligent content discovery through natural language queries.
 
 ---
-![Test Results](Test-Results/7-Test-Passed.png)
+![Test Results](test-results/7-Test-Passed.png)
 
 ## 🚀 Features
 
@@ -32,8 +32,7 @@ movie-search-assignment/
 ├── requirements.txt # Python dependencies
 ├── tests/
 │ ├── init.py
-│ └── test_movie_search.py # Comprehensive unit tests
-├── screenshots/ # Demo images and results
+│ └── test_movie_search.py # Comprehensive unit test
 ├── README.md # This file
 └── LICENSE # MIT License
 
@@ -48,7 +47,7 @@ movie-search-assignment/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/toshankanwar/Ai-In-System-Development-221020456
+git clone https://github.com/shivak-umar/AI-System-development
 cd Ai-In-System-Development-221020456
 ```
 
@@ -136,17 +135,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.t
 
 ## 👨‍💻 Contact Information
 
-**Developer**: Toshan Kanwar
-**Student ID**: [221020456]  
+**Developer**: Shiva Kumar Nagesh
+**Student ID**: [221020449]  
 **University**: IIIT Naya Raipur  
 **Course**: AI Systems Development  
 **Assignment**: Semantic Search Engine (Assignment 1)
-
-### 📧 Get in Touch
-- **Email**: contact@toshankanwar.website
-- **LinkedIn**: [https://www.linkedin.com/in/toshan-kanwar-4683a1349/](https://www.linkedin.com/in/toshan-kanwar-4683a1349/)
-- **GitHub**: [@toshankanwar](https://github.com/toshankanwar)
-- **Portfolio**: [https://toshankanwar.website](https://toshankanwar.website)
 
 ### 🎓 Academic Information
 - **Submission Date**: August 26, 2025
