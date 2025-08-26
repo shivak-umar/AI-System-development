@@ -30,14 +30,4 @@ All assignments have been added with their respective submission dates and follo
 
 ---
 
-## Contact
-
-For questions or feedback, contact:
-
-- **Name:** Toshan Kanwar 221020456
-- **Email:** contact@toshankanwar.website
-- **GitHub:** [toshankanwar](https://github.com/toshankanwar)  
-
----
-
 Thank you for reviewing my assignments for the AI in System Development course.
